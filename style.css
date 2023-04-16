@@ -81,12 +81,18 @@
   background-color: #d59729;
 }
 .hr {
+  background-color: black;
+  width: 45px;
+  height: 7px;
   position: relative;
   top: -257px;
   right: -40px;
   border-radius: 10px;
 }
 .hr1 {
+  background-color: black;
+  width: 45px;
+  height: 7px;
   position: relative;
   top: -264px;
   right: -125px;
